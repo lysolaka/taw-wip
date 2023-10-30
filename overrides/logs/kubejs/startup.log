@@ -1,0 +1,82 @@
+[13:04:54] [INIT] KubeJS 2001.6.3-build.80; MC 2001 forge
+[13:04:54] [INIT] Loaded plugins:
+[13:04:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:04:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:04:54] [INIT] - com.almostreliable.kubeio.core.KubePlugin
+[13:04:54] [INIT] - com.probejs.ProbeJSPlugin
+[13:04:54] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[13:04:54] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[13:04:55] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[13:04:55] [INFO] Loaded script startup_scripts:example.js in 0.087 s
+[13:04:55] [INFO] Loaded 1/1 KubeJS startup scripts in 1.172 s
+[13:05:45] [INFO] Features with type 'raw_generation' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] Features with type 'lakes' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - 2 features with unknown id
+[13:05:45] [INFO] Features with type 'local_modifications' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] Features with type 'underground_structures' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:monster_room]
+[13:05:45] [INFO] Features with type 'surface_structures' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] Features with type 'strongholds' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / terralith:alpha/clay_patch]
+[13:05:45] [INFO] Features with type 'underground_ores' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_dirt]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_gravel]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_coal_upper]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_coal_lower]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_iron_upper]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_iron_middle]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_iron_small]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_gold]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_redstone]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_redstone_lower]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diamond]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diamond_medium]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diamond_large]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:bauxite]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:deep_nickel]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_fluorite_normal]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_fluorite_buried]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / powah:uraninite_ore_poor]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / powah:uraninite_ore]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / powah:uraninite_ore_dense]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:lead]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_lead_normal]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / create_new_age:magnetite]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:mineral_veins]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:nickel]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / create_new_age:ore_thorium]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_osmium_upper]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_osmium_middle]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_osmium_small]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:salt]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:silver]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / create:striated_ores_overworld]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_tin_small]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_tin_large]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / immersiveengineering:uranium]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_uranium_small]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / mekanism:ore_uranium_buried]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / bigreactors:yellorite_ore]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / bigreactors:yellorite_deepslate_ore]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / create:zinc_ore]
+[13:05:45] [INFO] - 4 features with unknown id
+[13:05:45] [INFO] Features with type 'underground_decoration' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / terralith:alpha/sand_beaches]
+[13:05:45] [INFO] - 7 features with unknown id
+[13:05:45] [INFO] Features with type 'fluid_springs' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:spring_water]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:spring_lava]
+[13:05:45] [INFO] - 1 features with unknown id
+[13:05:45] [INFO] Features with type 'vegetal_decoration' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / terralith:alpha/trees]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / terralith:alpha/flowers_2]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / terralith:alpha/flowers]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:brown_mushroom_normal]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:red_mushroom_normal]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:patch_sugar_cane]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / naturesaura:aura_bloom]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / farmersdelight:patch_wild_carrots]
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / farmersdelight:patch_wild_onions]
+[13:05:45] [INFO] - 1 features with unknown id
+[13:05:45] [INFO] Features with type 'top_layer_modification' in biome 'Optional[terralith:alpha_islands]':
+[13:05:45] [INFO] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:freeze_top_layer]
