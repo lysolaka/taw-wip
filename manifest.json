@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Ancestor's Way",
-  "version": "0.4",
+  "version": "0.5",
   "author": "",
   "files": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "projectID": 238546,
-      "fileID": 4791769,
+      "fileID": 4840967,
       "required": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 331936,
-      "fileID": 4813387,
+      "fileID": 4845543,
       "required": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "projectID": 602171,
-      "fileID": 4626585,
+      "fileID": 4829137,
       "required": true
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 250832,
-      "fileID": 4703090,
+      "fileID": 4837768,
       "required": true
     },
     {
@@ -171,12 +171,12 @@
     },
     {
       "projectID": 574300,
-      "fileID": 4776865,
+      "fileID": 4842281,
       "required": true
     },
     {
       "projectID": 905861,
-      "fileID": 4763694,
+      "fileID": 4847120,
       "required": true
     },
     {
@@ -205,11 +205,6 @@
       "required": true
     },
     {
-      "projectID": 416704,
-      "fileID": 4627288,
-      "required": true
-    },
-    {
       "projectID": 268567,
       "fileID": 4807071,
       "required": true
@@ -221,32 +216,32 @@
     },
     {
       "projectID": 223794,
-      "fileID": 4783930,
+      "fileID": 4827528,
       "required": true
     },
     {
       "projectID": 328085,
-      "fileID": 4762216,
+      "fileID": 4835191,
       "required": true
     },
     {
       "projectID": 869316,
-      "fileID": 4824602,
+      "fileID": 4829940,
       "required": true
     },
     {
       "projectID": 32274,
-      "fileID": 4774257,
+      "fileID": 4841242,
       "required": true
     },
     {
       "projectID": 622737,
-      "fileID": 4771065,
+      "fileID": 4834403,
       "required": true
     },
     {
       "projectID": 663477,
-      "fileID": 4619487,
+      "fileID": 4826822,
       "required": true
     },
     {
@@ -281,7 +276,7 @@
     },
     {
       "projectID": 558998,
-      "fileID": 4811802,
+      "fileID": 4836009,
       "required": true
     },
     {
@@ -291,7 +286,7 @@
     },
     {
       "projectID": 309927,
-      "fileID": 4812541,
+      "fileID": 4834490,
       "required": true
     },
     {
@@ -306,7 +301,7 @@
     },
     {
       "projectID": 704113,
-      "fileID": 4672475,
+      "fileID": 4831434,
       "required": true
     },
     {
@@ -371,12 +366,12 @@
     },
     {
       "projectID": 321117,
-      "fileID": 4812089,
+      "fileID": 4836244,
       "required": true
     },
     {
       "projectID": 238086,
-      "fileID": 4818298,
+      "fileID": 4831287,
       "required": true
     },
     {
@@ -411,12 +406,12 @@
     },
     {
       "projectID": 892005,
-      "fileID": 4823421,
+      "fileID": 4841795,
       "required": true
     },
     {
       "projectID": 711034,
-      "fileID": 4633656,
+      "fileID": 4833041,
       "required": true
     },
     {
@@ -480,13 +475,13 @@
       "required": true
     },
     {
-      "projectID": 387638,
-      "fileID": 4691333,
+      "projectID": 351264,
+      "fileID": 4778283,
       "required": true
     },
     {
-      "projectID": 351264,
-      "fileID": 4778283,
+      "projectID": 387638,
+      "fileID": 4691333,
       "required": true
     },
     {
@@ -511,7 +506,7 @@
     },
     {
       "projectID": 633483,
-      "fileID": 4729364,
+      "fileID": 4842330,
       "required": true
     },
     {
@@ -531,7 +526,7 @@
     },
     {
       "projectID": 314906,
-      "fileID": 4753076,
+      "fileID": 4828652,
       "required": true
     },
     {
@@ -565,13 +560,13 @@
       "required": true
     },
     {
-      "projectID": 60089,
-      "fileID": 4581240,
+      "projectID": 448233,
+      "fileID": 4763645,
       "required": true
     },
     {
-      "projectID": 448233,
-      "fileID": 4763645,
+      "projectID": 60089,
+      "fileID": 4581240,
       "required": true
     }
   ],
