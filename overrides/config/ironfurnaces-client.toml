@@ -267,11 +267,11 @@
 
 	[misc.misc]
 		# Enable or disable the Rainbow Content
-		rainbow = true
+		rainbow = false
 		# Enable or disable light-updates, furances will no longer emit light, true = disable
 		lightupdates = false
 		# Enable or disable version checking and player identification through the web, true = disabled, if your server is using firewall software you might want to disable this
-		web = false
+		web = true
 		# Show furnace settings errors in chat, used for debugging
 		errors = false
 

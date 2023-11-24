@@ -9,7 +9,7 @@
 		#
 		#Keep parts of the inventory
 		#Allowed Values: NONE, HOTBAR, ARMOR, HOTBAR_AND_ARMOR
-		keep_parts = "NONE"
+		keep_parts = "HOTBAR_AND_ARMOR"
 		#
 		#When searching for a grave location, this is the maximum range to check
 		#Range: 2 ~ 128
@@ -37,7 +37,7 @@
 		#
 		#When survival player is within this (straight line calculated) distance from the tomb, they can teleport to the tomb.  Set as zero (0) to disable survival TP feature.   Set as negative one (-1) to allow survival teleportation always and ignore the distance (within dimension) 
 		#Range: -1 ~ 128
-		survival = 16
+		survival = 0
 		#
 		#If creative mode players can teleport to the tomb with the key, ignoring distance
 		creative = true
