@@ -252,8 +252,6 @@ declare namespace Registry {
     }
     class Slurry extends Internal.RegistryEventJS<any> {
     }
-    class Perks extends Internal.RegistryEventJS<any> {
-    }
     class BiomeLayerType extends Internal.RegistryEventJS<any> {
     }
     class DwarfRabbitVariant extends Internal.RegistryEventJS<any> {
@@ -262,18 +260,18 @@ declare namespace Registry {
     }
     class TinyBirdVariant extends Internal.RegistryEventJS<any> {
     }
-    class BiomeModifier extends Internal.RegistryEventJS<any> {
-    }
-    class Restrictions extends Internal.RegistryEventJS<any> {
-    }
     class WoodPalettes extends Internal.RegistryEventJS<any> {
-    }
-    class MagicPaintings extends Internal.RegistryEventJS<any> {
-    }
-    class RobitSkin extends Internal.RegistryEventJS<any> {
     }
     class BiomeLayerStack extends Internal.RegistryEventJS<any> {
     }
+    class MagicPaintings extends Internal.RegistryEventJS<any> {
+    }
     class StructureModifier extends Internal.RegistryEventJS<any> {
+    }
+    class Restrictions extends Internal.RegistryEventJS<any> {
+    }
+    class RobitSkin extends Internal.RegistryEventJS<any> {
+    }
+    class BiomeModifier extends Internal.RegistryEventJS<any> {
     }
 }
