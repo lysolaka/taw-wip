@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2_powering_up"
+	group: "596925A7F311233D"
+	icon: "immersiveengineering:wirecoil_copper"
+	id: "359FDD2D36C62CB6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Powering up!"
+}

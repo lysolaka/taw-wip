@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utopian_future"
+	group: "414915DE5731A627"
+	icon: "ae2:creative_item_cell"
+	id: "15B564602CDF135B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Utopian Future"
+}

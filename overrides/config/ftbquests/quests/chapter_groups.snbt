@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "62779E2AE7D96998", title: "1> Analogue Gameplay" }
+		{ id: "596925A7F311233D", title: "2> Powering up!" }
+		{ id: "6B628C607B0B4A66", title: "3> Ender Technology" }
+		{ id: "716D7DA8246EAB8C", title: "4> To the Skies!" }
+		{ id: "414915DE5731A627", title: "5> Utopian Future" }
+	]
+}

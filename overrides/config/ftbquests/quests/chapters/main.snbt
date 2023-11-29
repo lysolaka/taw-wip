@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "main"
+	group: "62779E2AE7D96998"
+	icon: "create:cogwheel"
+	id: "7DB08762A2765282"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "6A44A57BD5F3D0A1"
+		tasks: [{
+			id: "7E9880A0C76152D8"
+			title: "Welcome to <name>"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Analogue Gameplay"
+}

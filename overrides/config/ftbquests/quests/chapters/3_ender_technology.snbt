@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3_ender_technology"
+	group: "6B628C607B0B4A66"
+	icon: "enderio:vibrant_crystal"
+	id: "5E9C929F6ABED2C4"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Ender Technology"
+}
